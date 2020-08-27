@@ -1,0 +1,17 @@
+body{
+  background-color: white;
+}
+table{
+  border: 0pt solid black;
+  background-color: DimGrey;
+
+}
+td{
+  border: 1pt solid black;
+}
+
+ td:active {
+   background-color:#708090;
+   border-bottom: 1px solid black;
+
+}
